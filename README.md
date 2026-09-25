@@ -25,11 +25,15 @@ Je recherche un **CDI**, disponible dès **octobre 2026**.
 
 ### Quelques stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://TON-ADRESSE.vercel.app/api?username=Maynito&show_icons=true&hide_border=true&hide_rank=true&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676&icon_color=E98DC7" alt="Stats GitHub" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Maynito&hide_border=true&background=0f0f0f&stroke=757676&ring=E98DC7&fire=E98DC7&currStreakLabel=e4e8ef" alt="Séries de contributions" />
+</p>
 
-![Stats](https://github-readme-stats-one-alpha-67.vercel.app/api?username=Maynito&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676&icon_color=E98DC7)
-![Langages](https://github-readme-stats-one-alpha-67.vercel.app/api/top-langs/?username=Maynito&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676)
-![Streak](https://streak-stats.demolab.com/?user=Maynito&theme=dark&hide_border=true&background=0f0f0f&stroke=757676&ring=E98DC7&fire=E98DC7&currStreakLabel=e4e8ef)
+<p align="center">
+  <img height="170" src="https://TON-ADRESSE.vercel.app/api/top-langs/?username=Maynito&layout=compact&hide_border=true&card_width=480&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676" alt="Langages les plus utilisés" />
+</p>
+
 
 </div>
 
