@@ -20,6 +20,7 @@ Je recherche un **CDI**, disponible dès **octobre 2026**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ### Quelques stats
 
@@ -27,6 +28,7 @@ Je recherche un **CDI**, disponible dès **octobre 2026**.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Maynito&show_icons=true&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676&icon_color=E98DC7)
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maynito&layout=compact&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676)
+![Streak](https://streak-stats.demolab.com/?user=Maynito&theme=dark&hide_border=true&background=0f0f0f&stroke=757676&ring=E98DC7&fire=E98DC7&currStreakLabel=e4e8ef)
 
 </div>
 
