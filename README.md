@@ -26,8 +26,8 @@ Je recherche un **CDI**, disponible dès **octobre 2026**.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Maynito&show_icons=true&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676&icon_color=E98DC7)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maynito&layout=compact&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676)
+![Stats](https://github-readme-stats-one-alpha-67.vercel.app/api?username=Maynito&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676&icon_color=E98DC7)
+![Langages](https://github-readme-stats-one-alpha-67.vercel.app/api/top-langs/?username=Maynito&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=e4e8ef&text_color=757676)
 ![Streak](https://streak-stats.demolab.com/?user=Maynito&theme=dark&hide_border=true&background=0f0f0f&stroke=757676&ring=E98DC7&fire=E98DC7&currStreakLabel=e4e8ef)
 
 </div>
