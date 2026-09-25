@@ -11,7 +11,6 @@ Je recherche un **CDI**, disponible dès **octobre 2026**.
 
 - 💼 6 mois chez **Capgemini** sur une application web de santé, en C#/.NET et SolidJS/TypeScript
 - 🔭 Je développe **[Kamas](https://github.com/Maynito/kamas)**, un outil qui lit les prix de l'hôtel des ventes Dofus par OCR et calcule les crafts les plus rentables
-- 🧰 J'aime les projets où le back fait un vrai travail : traitement de données, automatisation, API
 
 ### Stack
 
